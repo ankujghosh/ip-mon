@@ -44,6 +44,7 @@ Pending Task:
 * Rigorous tesing on all param to evaluate exceptions
 * Need to log if the program is stopped due to kernel sigterm messages
 * Adding help menu to the program
+* User Input Validation
 
 External Resources:
 
