@@ -14,7 +14,7 @@ Current Version
 Requirement:
 
 * pyhton3 installed
-* Require sudo rights as the file is written in /var/log/ folder, but code can be editted to wtite to local home folder to avoid super user access
+* Require sudo rights as the file is written in /var/log/ folder, but code can be editted to write to local home folder to avoid super user access
 
 Current Features:
 
