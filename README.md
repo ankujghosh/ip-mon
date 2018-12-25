@@ -57,8 +57,7 @@ I have started learning python recently and believe in learning with realtime pr
   Please suggest
 
 * Any other feature which can be included, taken that I will improve the core project i.e. IP monitoring and RPM(Real-Time Performance Monitoring)
-* Please suggest any kind of testing which I can perform
-* 
+* Any kind of testing which I can perform
 
 Credits:
 
@@ -70,4 +69,4 @@ networkingbaseline@gmail.com
 
 Other thoughts:
 
-None for now
+Let me know if you want me to create any other kind of python script useful to daily network automation
