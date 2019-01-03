@@ -45,6 +45,7 @@ Pending Task:
 * Need to log if the program is stopped due to kernel sigterm messages
 * Adding help menu to the program
 * User Input Validation
+* Calling different python program only for tshoot log collection
 
 External Resources:
 
